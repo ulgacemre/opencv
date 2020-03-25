@@ -17,3 +17,6 @@ https://www.pyimagesearch.com/2018/01/22/install-dlib-easy-complete-guide/
 shape_predictor_68_face_landmarks.dat
 
 https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat
+
+## Install Opencv
+pip install opencv-contrib-python
