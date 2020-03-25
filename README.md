@@ -3,6 +3,9 @@
 
 ## Dependencies
 
+## Install Opencv
+pip install opencv-contrib-python
+
 ## Windows - Dlib library 
 
 https://pysource.com/2019/03/20/how-to-install-dlib-for-python-3-on-windows/
@@ -18,5 +21,4 @@ shape_predictor_68_face_landmarks.dat
 
 https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat
 
-## Install Opencv
-pip install opencv-contrib-python
+
